@@ -27,9 +27,7 @@ public class helloWorls {
         System.out.println("V2.0");
 
         System.out.println("V3.0");
-    }
 
-   public void test(){
-           
-   }
+        System.out.println("合并");
+    }
 }
