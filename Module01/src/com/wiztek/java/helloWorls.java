@@ -24,14 +24,6 @@ public class helloWorls {
             }
 
         }
-        System.out.println("V2.0");
-
-        System.out.println("V3.0");
-
-        System.out.println("合并");
-
-        System.out.println("111111111111");
-
-        System.out.println("22222222222222");
+        System.out.println("测试拉取");
     }
 }
